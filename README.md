@@ -20,3 +20,8 @@
 
 ## Adam
 ![Alternate image text](animations/nag.gif)
+
+# Histogram of Activations
+- Looking at the distribution of activation values always gives us a lot of insights
+- This led to the development of normalization techniques, and block-wise quantization strategies (like in DeepSeek-V3)
+![Alternate image text](animations/activation_bn.gif)
